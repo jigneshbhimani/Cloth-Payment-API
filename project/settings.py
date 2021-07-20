@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-m+mm4u10!^m_q-!g+yy#pb5mn68xe+g#9348sc&jhox7igza87
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['cloth-payment-api.herokuapp.com']
 
 
 # Application definition
